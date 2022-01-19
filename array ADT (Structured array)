@@ -4,7 +4,7 @@ using namespace std;
 class Array{
  
 private:
-    int* A;
+    int* A; //here we can also customise the size of array, not neccessary to take it as pointer.
     int size;
     int length;
  
