@@ -38,11 +38,10 @@ public:
 
 int main() {
  
- 
+ //This is main function
     Array arr(10);
     arr.create();
     arr.display();
- 
  
     return 0;
 }
