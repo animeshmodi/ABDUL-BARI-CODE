@@ -38,7 +38,7 @@ public:
 
 int main() {
  
- //This is main function for Array ADT class
+ //This is main function for Array ADT class 1.
     Array arr(10);
     arr.create();
     arr.display();
